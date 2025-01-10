@@ -1,0 +1,15 @@
+openapi: 3.0.0
+info:
+  title: Callsidekick API Client
+  description: Ein C#-Client für die Callsidekick API
+  version: 1.0.0
+  termsOfService: "https://senseaition.com/terms/"
+  contact:
+    email: "api@senseaition.com"
+    url: "https://senseaition.com/"
+  license:
+    name: "sense.ai.tion license"
+    url: "https://senseaition.com/terms/"
+  x-authors: sense.ai.tion GmbH
+  x-company: sense.ai.tion GmbH
+  x-assemblyTitle: Callsidekick API Client

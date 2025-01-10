@@ -1,0 +1,7 @@
+templates/
+├── csharp/
+│   ├── .openapi-generator-ignore
+│   ├── api.mustache
+│   ├── model.mustache
+│   └── project.mustache
+└── MyCustomTemplate.csproj
