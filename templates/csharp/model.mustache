@@ -1,0 +1,14 @@
+using System;
+using System.Collections.Generic;
+using System.Text.Json.Serialization;
+
+namespace {{baseName}}.Model
+{
+    public class {{classname}}
+    {
+        {{#vars}}
+        [JsonPropertyName("{{baseName}}")]
+        public {{dataType}} {{name}} { get; set; }
+        {{/vars}}
+    }
+}
